@@ -1,0 +1,22 @@
+{
+	"basics":{
+		"objective":"To excel in my chosen field in a job that both challenges and inspires me, while pushing me to work to the best of my abilities and produce the highest quality work that I am capable of."
+       },
+       "education":[
+{
+	"degree":"B.TECH(CSE)",
+	"college":"KLMCEW",
+	"data":["2015-2019","76%"]
+}
+{
+     "degree":"INTERMEDIATE",
+	 "college":"NARAYANA",
+	 "data":["2013-2015","95%"]
+}
+{
+	"degree":"SSC",
+	 "college":"ST.JOSEPH'S EMHS",
+	 "data":["2013","93%"]
+}
+
+       ]
